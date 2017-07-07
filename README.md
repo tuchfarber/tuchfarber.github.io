@@ -1,2 +1,2 @@
-tuchfarber.github.io
+Redirects to tuchfarber.com for now
 ====================
